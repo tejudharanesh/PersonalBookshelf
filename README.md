@@ -18,6 +18,7 @@
 ```
 
 Usage
+```
 Navigate to http://localhost:3000 to use the book search feature.
 Add books to your personal book list.
 View your booklist at http://localhost:3000/bookshelf
